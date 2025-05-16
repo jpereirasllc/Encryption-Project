@@ -3,4 +3,5 @@
 
 void userDataEntry(int option);
 void defNumbers(int option,char message[],char secretKey[]);
+
 #endif
