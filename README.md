@@ -3,9 +3,10 @@
 ## Projeto em desenvolvimento
 
 #### Este é um projeto pessoal de criptografia e descriptografia simples.
-### Projeto desenvolvido em linguagem C
 
 #### Estou desenvolvendo este projeto utilizando software livre e Open-source.
+### Projeto desenvolvido em linguagem C
+#
 
 ## Softwares utilizados:
 ### Sistema Operacional: Ubuntu 22.04.1
