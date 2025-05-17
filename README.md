@@ -12,6 +12,7 @@
 ### Compilador gcc 11.4.0
 
 ### Projeto desenvolvido em linguagem C
+##
 
 #### Para compilar o projeto eu utilizei a seguinte linha de comando no Ubuntu:
 
