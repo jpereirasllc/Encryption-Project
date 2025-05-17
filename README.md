@@ -6,7 +6,7 @@
 
 #### Estou desenvolvendo este projeto utilizando software livre Open-source.
 
-#### Softwares utilizados:
+## Softwares utilizados:
 ### Sistema Operacional: Ubuntu 22.04.1
 ### Editor de texto: Vim 8.2
 ### Compilador gcc 11.4.0
