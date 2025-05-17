@@ -12,5 +12,5 @@
 ### gcc -c init.c data/usrData.c definers/defNumbers.c
 
 #### Isto vai gerar os arquivos objetos no mesmo diretório. A partir daí, para gerar o arquivo executável, bastou que utilizasse o comando para compilação de todos os arquivos com extensão.o
-#### gcc *.o -o proc
+### gcc *.o -o proc
 
