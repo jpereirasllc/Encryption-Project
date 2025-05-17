@@ -5,9 +5,8 @@
 #### Este é um projeto pessoal de criptografia e descriptografia simples.
 
 #### Estou desenvolvendo este projeto utilizando software livre e Open-source.
-### Projeto desenvolvido em linguagem C
-#
-
+#### Projeto desenvolvido em linguagem C
+##
 ## Softwares utilizados:
 ### Sistema Operacional: Ubuntu 22.04.1
 ### Editor de texto: Vim 8.2
