@@ -3,6 +3,7 @@
 ## Projeto em desenvolvimento
 
 #### Este é um projeto pessoal de criptografia e descriptografia simples.
+### Projeto desenvolvido em linguagem C
 
 #### Estou desenvolvendo este projeto utilizando software livre e Open-source.
 
@@ -12,8 +13,6 @@
 ### Compilador gcc 11.4.0
 
 #### Estou rodando o Sistema Operacional Ubuntu no Android 10 via Software Aplicativo UserLand versão 25.04.06
-
-### Projeto desenvolvido em linguagem C
 ##
 
 #### Para compilar o projeto eu utilizei a seguinte linha de comando no Ubuntu:
