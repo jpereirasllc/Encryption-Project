@@ -1,4 +1,4 @@
-# Encryption-Project
+# Encryption and decryption project
 
 ## Projeto em desenvolvimento
 
