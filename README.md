@@ -11,7 +11,7 @@
 ### Editor de texto: Vim 8.2
 ### Compilador gcc 11.4.0
 
-### Estou rodando o Sistema Operacional Ubuntu no Android 10 via Software Aplicativo UserLand versão 25.04.06
+#### Estou rodando o Sistema Operacional Ubuntu no Android 10 via Software Aplicativo UserLand versão 25.04.06
 
 ### Projeto desenvolvido em linguagem C
 ##
