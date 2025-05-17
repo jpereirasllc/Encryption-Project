@@ -4,6 +4,13 @@
 
 #### Este é um projeto pessoal de criptografia e descriptografia simples.
 
+#### Estou desenvolvendo este projeto utilizando software livre Open-source.
+
+### Softwares utilizados:
+### Sistema Operacional: Ubuntu 22.04.1
+### Editor de texto: Vim 8.2
+### Compilador gcc 11.4.0
+
 ### Projeto desenvolvido em linguagem C
 
 #### Para compilar o projeto eu utilizei a seguinte linha de comando no Ubuntu:
