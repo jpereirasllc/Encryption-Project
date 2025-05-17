@@ -11,6 +11,8 @@
 #### Dentro do diretório do projeto utilizei os seguintes comandos para gerar os códigos objetos:
 ### gcc -c init.c data/usrData.c definers/defNumbers.c
 
-#### Isto vai gerar os arquivos objetos no mesmo diretório. A partir daí, para gerar o arquivo executável, bastou que utilizasse o comando para compilação de todos os arquivos com extensão.o
+#### Isto vai gerar os arquivos objetos no mesmo diretório. A partir daí, para gerar o arquivo executável, bastou que utilizasse o comando para compilação de todos os arquivos com extensão .o
 ### gcc *.o -o proc
+
+#### O nome de arquivo <proc> refere-se ao nome de arquivo que eu usei para o executável, mas você pode usar o nome que desejar.
 
