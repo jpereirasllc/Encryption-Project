@@ -14,5 +14,5 @@
 #### Isto vai gerar os arquivos objetos no mesmo diretório. A partir daí, para gerar o arquivo executável, bastou que utilizasse o comando para compilação de todos os arquivos com extensão .o
 ### gcc *.o -o proc
 
-#### O nome de arquivo <proc> refere-se ao nome de arquivo que eu usei para o executável, mas você pode usar o nome que desejar.
+#### O nome de arquivo "proc" refere-se ao nome de arquivo que eu usei para o executável, mas você pode usar o nome que desejar.
 
