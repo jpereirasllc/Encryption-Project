@@ -1,3 +1,5 @@
 # Encryption-Project
 
-## Project under development
+## Projeto em desenvolvimento
+
+### Este é um projeto pessoal de criptografia e descriptografia simples 
