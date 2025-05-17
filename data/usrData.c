@@ -1,6 +1,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include "../prototypes/header.h"
 
 void userDataEntry(int option)
 {
@@ -21,4 +22,6 @@ void userDataEntry(int option)
     printf("Secret Key: ");
     fgets(secretKey,151,stdin);
     setbuf(stdin,NULL);
+
+    defNumbers(option,message,secretKey);
 }
