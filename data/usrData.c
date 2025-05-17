@@ -12,7 +12,7 @@ void userDataEntry(int option)
     if(option == 1){
         printf("Encryption process\n");
     }
-    else{
+    else if(option == 2){
         printf("Decryptyon process\n");
     }
     printf("*************************\n"
